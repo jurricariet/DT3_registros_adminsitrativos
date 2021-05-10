@@ -18,7 +18,7 @@ A partir de lo señalado anteriormente surge que el RA no es una fuente de orige
 
 Por ejemplo, en una operación de compra-venta de un objeto se emite una factura, lo que implica que se registra un evento normativo con fines fiscales; al solicitar un empleo se completa una planilla para evaluar el perfil del solicitante; al faltar una norma de tránsito se levanta una boleta de citación o una multa que deberá ser cancelada, etc. En conclusión, ninguno de estos eventos es propiamente estadístico, sin embargo, se convierte en una fuente de información estadística luego de ser tratada mediante procedimientos convenientes.
 
-De manera genérica se plantea aquí la definición de los `RA`como:
+De manera genérica se plantea aquí la definición de los `RA` como:
 
 > "Aquella información que surge de los procedimientos administrativos y/o operativos que desarrollan y utilizan las instituciones (públicas o privadas) como método de registro de las diferentes actividades (turísticas y/o no turísticas) realizadas."
 
@@ -34,19 +34,27 @@ Según la Organización para la Cooperación y Desarrollo Económicos (OECD), la
 
 Es necesario tener en cuenta que la forma en que se presentan los datos a los usuarios sea en forma clara y comprensible, lo que implica estrategias de difusión adecuadas e imparciales y si el usuario tiene acceso a metadatos actualizados, sin ningún tipo de restricción. Además, es necesario contar con sistemas de apoyo a los usuarios que utilizan los datos.
 
-En términos de la CEPAL, este criterio contempla las «condiciones físicas en que los usuarios pueden obtener los datos: dónde y cómo pedirlos, tiempo de entrega, política clara de precios, formatos de disponibilidad, otros»[@cepal2003].
+En términos de la CEPAL, este criterio contempla las *«condiciones físicas en que los usuarios pueden obtener los datos: dónde y cómo pedirlos, tiempo de entrega, política clara de precios, formatos de disponibilidad, otros*»[@cepal2003].
 
 \* **Pertinencia o relevancia**: Es una medida cualitativa del valor aportado por la información. El valor está directamente relacionado con el grado de utilidad para satisfacer el propósito por el cual la información fue buscada o solicitada. Depende de la cobertura de los tópicos requeridos y del apropiado uso de conceptos. La medición de la relevancia de un producto estadístico requiere de la identificación de su grupo de usuarios y sus necesidades [@oecd2003]. Los datos producidos por los `RA` tienen múltiples usos y usuarios que pueden cambiar con el tiempo.
 
 Asimismo, cada uno de los múltiples `RA`, poseen características propias respecto de la forma en que se fueron sistematizando y registrando. En efecto, para su aprovechamiento como fuente secundaria para la producción de estadísticas metodológicamente elaboradas, resulta posible identificar diferentes aspectos respecto de la utilidad y los requerimientos que posean cada uno.
 
-Entre los principales elementos respecto de la utilidad de los mismos, se puede destacar que: i)son una fuente de información importante y disponible; ii)pueden utilizarse como indicadores de evolución (aunque con ciertas limitaciones que se profundizan posteriormente en este documento), y a la vez, como insumos para la elaboración de estadísticas; iii) la obtención de dicha información posee bajo y/o nulo costo; por lo general, iv) cuentan con una alta cobertura y la información suministrada permite generar distintas desagregaciones, como por ejemplo, según niveles institucionales (provincial, departamental y/o municipal) y tipos de variables (sexo, edad, etc.).
+Entre los principales elementos respecto de la utilidad de los mismos, se puede destacar que:
+
+i) son una fuente de información importante y disponible;
+
+ii) pueden utilizarse como indicadores de evolución (aunque con ciertas limitaciones que se profundizan posteriormente en este documento), y a la vez, como insumos para la elaboración de estadísticas;
+
+iii) la obtención de dicha información posee bajo y/o nulo costo; por lo general;
+
+iv) cuentan con una alta cobertura y la información suministrada permite generar distintas desagregaciones, como por ejemplo, según niveles institucionales (provincial, departamental y/o municipal) y tipos de variables (sexo, edad, etc.).
 
 De manera complementaria, los requerimientos claves que se deberían contemplar para su utilización consisten en el análisis de las limitaciones de dicha fuente, ya que no cuentan con una metodología estadística que sistematice y recopile la información. Tanto para su utilización como insumo y/o para la elaboración de indicadores estadísticos se requiere, por lo general, un proceso de conversión que transforme las unidades administrativas en unidades estadísticas y, a la vez, en dicho proceso, se requiere diseñar y desarrollar una metodología con la secuencia lógica de diferentes pasos estadísticos.
 
 En la figura que se presenta a continuación, se puede dar cuenta de las utilidades y los requerimientos que la utilización de los `RA` presenta.
 
-```{r registros_administrativos, echo=FALSE, fig.cap="Figura N° 1. Utilidad y requerimientos para el uso de los Registros Administrativos" }
+```{r registrosadministrativos, echo=FALSE, fig.cap="Utilidad y requerimientos para el uso de los Registros Administrativos" }
 knitr::include_graphics('imagenes/figura01.png')
 ```
 
@@ -58,12 +66,11 @@ En este sentido, a fin de que un registro administrativo sea utilizado para un a
 
 Como ya se ha mencionado, desarrollar una metodología válida y clara es fundamental para una correcta utilización de los `RA` en la confección de estadísticas del turismo (ET). Por ende, se reconoce la importancia que posee la confección de un herramental técnico a fin de facilitar su utilización.
 
-Con el objetivo deproponer las pautas para la producción de estadísticas, en base a los `RA`, en la **Figura N°2** se presenta un conjunto de etapas y/o fases para la correcta conversión de la información almacenada en los mismos tal que permitan cuantificar el objetivo buscado. En la siguiente figura se presenta una posible secuencia lógica de estas fases:
+Con el objetivo de proponer las pautas para la producción de estadísticas, en base a los `RA`, en la **Figura N°2** se presenta un conjunto de etapas y/o fases para la correcta conversión de la información almacenada en los mismos tal que permitan cuantificar el objetivo buscado. En la siguiente figura se presenta una posible secuencia lógica de estas fases:
 
 ```{r Fases, echo=FALSE, fig.cap="Figura N° 2. Fases de la conversión de datos provenientes de registros administrativos en información estadística" }
 knitr::include_graphics('imagenes/figura02.png')
 ```
-
 
 En primer lugar, en la fase I se requiere definir la población[^registros_administrativos-1] objetivo y se debe contar con la máxima claridad sobre el objetivo general del estudio propuesto, ya que éste permitirá orientar los pasos subsiguientes en la correcta explotación del `RA`.
 

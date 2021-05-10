@@ -1,5 +1,15 @@
+fig:registrosadministrativos
 fig:Fases
+fig:clasificaciontransporte
+fig:clasificacionatractivos
+fig:clasificacionsegundasviviendas
+fig:estudioslocalidade
 fig:coeficientes
+fig:temporadaalta
+fig:resultadosobtenidos
+fig:arribosdeturistas
+fig:llegadasportipo
+fig:cantidaddevisitantes
 los-registros-administrativos
 qué-son
 situación-internacional

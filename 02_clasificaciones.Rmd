@@ -20,20 +20,31 @@ Las perspectivas de clasificación propuesta corresponden, en primer lugar, a qu
 
 ## Según tipo de información
 
-En primer lugar, se elaboró una tipología de clasificación que identifica el tipo de información que los diferentes `RA` almacenan y proporcionan, como así también, cuáles son las fuentes de información que suministran los respectivos `RA`. Se presentan cinco agregados desde los cuales al interior de cada uno de ellos se realizan sub-desagregaciones que procuran desarrollar analíticamente cada una de las dimensiones para la producción de estadísticas de Turismo. En primer lugar, el Transporte, agrupa a tres tipos: Terrestre, Aéreo y/o Acuático (ver Figura N°3/A). En segundo lugar, los Atractivos Turísticos, contemplan a los Naturales, Culturales y/o Recreativos (ver Figura N**°** 3/B). Luego, en tercer lugar, la Oferta Turística (ver Figura N° 3/B), incluye a los prestadores y oferentes de productos y/o servicios turísticos. En cuarto lugar, las Segundas Viviendas (ver Figura N° 3/C), únicamente debido a su especificidad propia. Por último, en quinto lugar, la cuantificación del Empleo (ver Figura N° 3/C), respecto del tipo de gestión que suministra la información.
+En primer lugar, se elaboró una tipología de clasificación que identifica el tipo de información que los diferentes `RA` almacenan y proporcionan, como así también, cuáles son las fuentes de información que suministran los respectivos `RA`. Se presentan cinco agregados desde los cuales al interior de cada uno de ellos se realizan sub-desagregaciones que procuran desarrollar analíticamente cada una de las dimensiones para la producción de estadísticas de Turismo. 
 
-```{r clasificacion_transporte, echo=FALSE, fig.cap="Figura N° 3A. Clasificación de los registros administrativos ligados al transporte por tipo de información" }
+En primer lugar, el Transporte, agrupa a tres tipos: Terrestre, Aéreo y/o Acuático (Figura \@ref(fig:clasificaciontransporte)). 
+
+
+
+```{r clasificaciontransporte, echo=FALSE, fig.cap="Figura N° 3A. Clasificación de los registros administrativos ligados al transporte por tipo de información" }
 knitr::include_graphics('imagenes/figura03A.png')
 ```
 
-```{r clasificacion_atractivos, echo=FALSE, fig.cap="Figura N° 3B. Clasificación de los registros administrativos ligados a los atractivos turísticos y a la oferta turística por tipo de información" }
+
+
+En segundo lugar, los Atractivos Turísticos, contemplan a los Naturales, Culturales y/o Recreativos. Luego, en tercer lugar, la Oferta Turística (Figura \@ref(fig:clasificacionatractivos)), incluye a los prestadores y oferentes de productos y/o servicios turísticos.
+
+```{r clasificacionatractivos, echo=FALSE, fig.cap="Figura N° 3B. Clasificación de los registros administrativos ligados a los atractivos turísticos y a la oferta turística por tipo de información" }
 knitr::include_graphics('imagenes/figura03B.png')
 ```
 
-```{r clasificacion_segundas_viviendas, echo=FALSE, fig.cap="Figura N° 3C. Clasificación de los registros administrativos ligados a las segundas viviendas y al empleo por tipo de información" }
+
+
+En cuarto lugar, las Segundas Viviendas, únicamente debido a su especificidad propia. Por último, en quinto lugar, la cuantificación del Empleo (Figura \@ref(fig:clasificacionsegundasviviendas)), respecto del tipo de gestión que suministra la información.
+
+```{r clasificacionsegundasviviendas, echo=FALSE, fig.cap="Figura N° 3C. Clasificación de los registros administrativos ligados a las segundas viviendas y al empleo por tipo de información" }
 knitr::include_graphics('imagenes/figura03C.png')
 ```
-
 
 ## Según oferta/demanda
 
