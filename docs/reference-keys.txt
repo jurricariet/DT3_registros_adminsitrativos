@@ -1,3 +1,5 @@
+fig:Fases
+fig:coeficientes
 los-registros-administrativos
 qué-son
 situación-internacional

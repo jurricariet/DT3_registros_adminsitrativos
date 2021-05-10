@@ -44,7 +44,11 @@ Por otro lado, se cuenta con información proporcionada por la empresa de peajes
 
 La Figura N° 4 muestra los resultados del estudio, cuya obtención se detalla a continuación.
 
-**Figura N° 4. Resultados del estudio realizado por la localidad "C"**
+
+```{r estudios_localidade, echo=FALSE, fig.cap="Figura Nº 4. Resultados del estudio realizado por la localidad C" }
+knitr::include_graphics('imagenes/figura04.png')
+```
+
 
 El primer paso, consistió en diferenciar la localidad de destino. De la encuesta implementada, 600 casos en total, se desprendió que 150 vehículos (25%) fueron con destino a la localidad ¨A¨, 210 (35%) a la ¨B¨ y 240 (40%) a la localidad ¨C¨.
 
@@ -74,7 +78,10 @@ Una vez elaborados los coeficientes en base al estudio, estos se deben aplicar a
 
 Como se podrá observar en la Figura N° 5/A, en la sabiendo que en la Temporada Alta el total de vehículos ingresados ha sido de 70.000 y que el 25% se dirigió a la localidad "A", 35% a la localidad "B" y 40% a la localidad "C", se puede concluir que en dicho período los automóviles que las localidades recibieron fueron, 17.500 (70.000\*25%), 24.500 (70.000\*35%) y 28.000 (70.000\*40%), respectivamente.
 
-**Figura N° 5/A. Coeficientes del estudio realizado por la localidad "C" aplicados a los totales informados por la empresa de peaje**
+```{r coeficientes, echo=FALSE, fig.cap="Figura N° 5/A. Coeficientes del estudio realizado por la localidad C aplicados a los totales informados por la empresa de peaje" }
+knitr::include_graphics('imagenes/figura5A.png')
+```
+
 
 El hecho de realizar tres estudios (uno para cada periodo temporal) indudablemente implica una erogación mayor que realizar sólo uno. No obstante, sólo de esta manera es posible reflejar fielmente la realidad y, más aún, poder realizar estudios longitudinales (comparación de llegadas de visitantes en distintos años, por ejemplo), que suele ser un objetivo común de las estadísticas de turismo[^ejemplos-4].
 
@@ -82,7 +89,9 @@ El hecho de realizar tres estudios (uno para cada periodo temporal) indudablemen
 
 La Figura N° 5/B permite comparar los resultados obtenidos más arriba con los que hubiesen surgido si se hubiese aplicado a las cantidades de vehículos de cada periodo los coeficientes correspondientes a la temporada alta.
 
-**Figura N° 5/ B. Aplicación de coeficiente de "Temporada Alta", obtenido del estudio realizado por la localidad "C", a las cantidades de vehículos de todos los períodos (Temporada Alta, Fines de semana largo y Fuera de temporada)**
+```{r temporada_alta, echo=FALSE, fig.cap="Figura N° 5/ B. Aplicación de coeficiente de Temporada Alta, obtenido del estudio realizado por la localidad C, a las cantidades de vehículos de todos los períodos (Temporada Alta, Fines de semana largo y Fuera de temporada)" }
+knitr::include_graphics('imagenes/figura5B.png')
+```
 
 \
 Con estas dos Figuras se busca dar cuenta de la alteración que se produce en las estimaciones cuando no se toma en consideración la estacionalidad, mencionada en el primer capítulo. En este caso, si se aplica el coeficiente obtenido en temporada alta para todos los períodos, se estarían alterando las estimaciones de los períodos restantes. Por ejemplo, fuera de temporada, se sobreestimaría tanto los visitantes (en un 25%), como los turistas (en un 54%), mientras que los excursionistas sufrirías una subestimación del orden de un 62,8%. Esto ocurre debido a que en temporada alta, es mayor la cantidad de visitantes y turistas en relación al total de vehículos que ingresan, y más común el ingreso de turistas en relación a los otros dos períodos. Análogas a las alteraciones descriptas para fuera de temporada alta se producen en el período de fines de semana(los excursionistas se hubieran visto reducidos en un -1,0% y -78,4%, respectivamente, y sólo la cantidad de turistas hubiera crecido en un 38,6%).
@@ -146,8 +155,9 @@ El estudio contempla dos fases o dos tipos de relevamientos. Por un lado, se rea
 [^ejemplos-9]: Si bien este ejercicio apunta a cuantificar y caracterizar a los visitantes que llegan al destino, cabe notar que del mismo estudio podría surgir una estimación acerca del turismo emisivo, es decir, de los residentes en ese lugar que viajan a otros destinos.
 
 Los resultados obtenidos son los que describen en la siguiente figura:
-
-**Figura N° 6. Resultados obtenidos por los estudios muestrales realizados por la localidad "Norte"**
+```{r resultados_obtenidos, echo=FALSE, fig.cap="Figura N° 6. Resultados obtenidos por los estudios muestrales realizados por la localidad Norte" }
+knitr::include_graphics('imagenes/figura06.png')
+```
 
 Si se encuesta a todas las personas que ingresen vía alguno de los aviones diarios se busca determinar, en primer lugar, el porcentaje de cantidad de llegadas sobre el total.
 
@@ -165,11 +175,14 @@ La segunda fase es la aplicación de una encuesta muy simple a todos los pasajer
 
 En el operativo realizado para temporada alta se da cuenta de que ingresaron un 9,8% de residentes y un 90,2% de visitantes (78% de turistas y 12,2% de excursionistas). Un 40,6% de los turistas eran no residentes en Argentina y un 59,4% correspondieron a no residentes extranjeros; en el caso de los excursionistas, estas proporciones alcanzaron respectivamente al 80% y 20%.
 
-Para obtener los coeficientes correspondientes que cada categoría ocupa sobre la capacidad total, que servirá para realizar las estimaciones anuales, se presenta un ejemplo en el cuadro subsiguiente (Figura N° 7). En el mismo, se ejemplifica para temporada alta el caso de estimación de coeficientes de "arribos de turistas no residentes (nac.)" sobre la capacidad total. Los valores que deben ser multiplicados son provenientes de la Figura N° 6, es decir, del estudio realizado.\
+Para obtener los coeficientes correspondientes que cada categoría ocupa sobre la capacidad total, que servirá para realizar las estimaciones anuales, se presenta un ejemplo en el cuadro subsiguiente (Figura N° 7). En el mismo, se ejemplifica para temporada alta el caso de estimación de coeficientes de "arribos de turistas no residentes (nac.)" sobre la capacidad total. Los valores que deben ser multiplicados son provenientes de la Figura N° 6, es decir, del estudio realizado.
 
-**Figura N° 7. Estimación de coeficiente de arribos de turistas residentes sobre capacidad total.**
+```{r arribos_de_turistas, echo=FALSE, fig.cap="Figura N° 7. Estimación de coeficiente de arribos de turistas residentes sobre capacidad total" }
+knitr::include_graphics('imagenes/figura07.png')
+```
 
-Las estimaciones se obtienen a partir de multiplicar los porcentajes remarcados en la Figura  N° 7 de la siguiente manera:\
+
+Las estimaciones se obtienen a partir de multiplicar los porcentajes remarcados en la Figura N° 7 de la siguiente manera:\
 
 1.  Multiplicar el porcentaje de "arribos totales" con el de "turistas" (0,94\*0,78=0,7332), para así obtener el peso de los turistas que han ingresado a la localidad "Norte" sobre el total de asientos disponibles ("capacidad total").
 
@@ -183,7 +196,9 @@ En términos lógicos, sólo es preciso estimar, para cada periodo definido, el 
 
 La Figura N° 8 da cuenta, en primer lugar, de los coeficientes para los grupos estratos de visitantes considerados por periodo (calculados como en el ejemplo de la Figura N° 7); luego, aplicando estos valores sobre la cantidad de asientos disponibles (capacidad total) en cada periodo, se obtienen las cantidades de visitantes correspondientes por categoría. Por ejemplo, si para la temporada alta, la llegada de turistas no residentes nacionales ocupó un 29,8%, ese porcentaje es multiplicado por la capacidad total de asientos en dicho período (en este caso: 18.720), para así obtener la cantidad estimada de llegadas en un año durante la temporada alta.
 
-Figura N° 8. Estimación de llegadas por tipo y residencia de visitante en cada período bajo estudio.
+```{r llegadas_por_tipo, echo=FALSE, fig.cap="Figura N° 8. Estimación de llegadas por tipo y residencia de visitante en cada período bajo estudio" }
+knitr::include_graphics('imagenes/figura08.png')
+```
 
 Es importante remarcar el hecho de que los coeficientes varían en forma significativa en cada uno de los períodos tomados en consideración. Como en el ejemplo anterior, de haberse aplicado un coeficiente único que no contemple las fluctuaciones estacionales, se hubiese perdido muchísima información y se hubieran introducido sesgos que, posiblemente, invalidarían las estimaciones.
 
@@ -215,6 +230,9 @@ Para poder obtener a partir de este dato información sobre el total de visitant
 
 Los resultados informados son los que se exponen a continuación, en la Figura N° 9.
 
+```{r cantidad_de_visitantes, echo=FALSE, fig.cap="Figura N° 9. Cantidad de visitantes por categoría informados por el CIT y cálculo de porcentaje que los mismos ocupan sobre el total de ingresos" }
+knitr::include_graphics('imagenes/figura09.png')
+```
 Figura N° 9. Cantidad de visitantes por categoría informados por el CIT y cálculo de porcentaje que los mismos ocupan sobre el total de ingresos.
 
 Con los datos relevados, el instituto generador de estadísticas de la localidad procede a determinar el porcentaje de visitantes que ingresan en busca de información al CIT según categoría. En el caso de los excursionistas, un 7,54% son residentes de otras localidades de la provincia, un 12,2% nacionales y un 13,4% extranjeros. Entre los turistas que ingresaron al CIT se cuenta con un 7,5%, un 25,5% y un 23,8%, respectivamente. Por último, aquellos excursionistas que son turistas en un viaje multidestino, un 2,6% de éstos pertenecen a otras localidades de la misma provincia, un 3,6% a otras provincias del país y un 4,0% a otros países.

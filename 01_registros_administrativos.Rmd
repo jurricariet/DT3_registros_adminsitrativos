@@ -46,7 +46,9 @@ De manera complementaria, los requerimientos claves que se deberían contemplar 
 
 En la figura que se presenta a continuación, se puede dar cuenta de las utilidades y los requerimientos que la utilización de los `RA` presenta.
 
-**Figura N° 1. Utilidad y requerimientos para el uso de los Registros Administrativos**
+```{r registros_administrativos, echo=FALSE, fig.cap="Figura N° 1. Utilidad y requerimientos para el uso de los Registros Administrativos" }
+knitr::include_graphics('imagenes/figura01.png')
+```
 
 El análisis que se haga de los datos generados a partir de los `RA` estará condicionado por la forma en que estas cuestiones sean encaradas y solucionadas tanto desde la propia institución que genera los datos como por el organismo que los utiliza con fines estadísticos. En efecto, se deben contemplar ciertos recaudos al momento de la utilización de los datos, la forma en que se los extrapole, los ponderadores que se utilicen, etc. con el propósito de procurar que las cifras obtenidas de las fuentes secundarias sean lo más representativas de la realidad que se procura captar.
 
@@ -58,7 +60,10 @@ Como ya se ha mencionado, desarrollar una metodología válida y clara es fundam
 
 Con el objetivo deproponer las pautas para la producción de estadísticas, en base a los `RA`, en la **Figura N°2** se presenta un conjunto de etapas y/o fases para la correcta conversión de la información almacenada en los mismos tal que permitan cuantificar el objetivo buscado. En la siguiente figura se presenta una posible secuencia lógica de estas fases:
 
-**Figura N° 2. Fases de la conversión de datos provenientes de registros administrativos en información estadística**
+```{r Fases, echo=FALSE, fig.cap="Figura N° 2. Fases de la conversión de datos provenientes de registros administrativos en información estadística" }
+knitr::include_graphics('imagenes/figura02.png')
+```
+
 
 En primer lugar, en la fase I se requiere definir la población[^registros_administrativos-1] objetivo y se debe contar con la máxima claridad sobre el objetivo general del estudio propuesto, ya que éste permitirá orientar los pasos subsiguientes en la correcta explotación del `RA`.
 
