@@ -26,7 +26,7 @@ En primer lugar, el Transporte, agrupa a tres tipos: Terrestre, Aéreo y/o Acuá
 
 
 
-```{r clasificaciontransporte, echo=FALSE, fig.cap="Figura N° 3A. Clasificación de los registros administrativos ligados al transporte por tipo de información" }
+```{r clasificaciontransporte, echo=FALSE, fig.cap="Clasificación de los registros administrativos ligados al transporte por tipo de información" }
 knitr::include_graphics('imagenes/figura03A.png')
 ```
 
@@ -34,7 +34,7 @@ knitr::include_graphics('imagenes/figura03A.png')
 
 En segundo lugar, los Atractivos Turísticos, contemplan a los Naturales, Culturales y/o Recreativos. Luego, en tercer lugar, la Oferta Turística (Figura \@ref(fig:clasificacionatractivos)), incluye a los prestadores y oferentes de productos y/o servicios turísticos.
 
-```{r clasificacionatractivos, echo=FALSE, fig.cap="Figura N° 3B. Clasificación de los registros administrativos ligados a los atractivos turísticos y a la oferta turística por tipo de información" }
+```{r clasificacionatractivos, echo=FALSE, fig.cap="Clasificación de los registros administrativos ligados a los atractivos turísticos y a la oferta turística por tipo de información" }
 knitr::include_graphics('imagenes/figura03B.png')
 ```
 
@@ -42,7 +42,7 @@ knitr::include_graphics('imagenes/figura03B.png')
 
 En cuarto lugar, las Segundas Viviendas, únicamente debido a su especificidad propia. Por último, en quinto lugar, la cuantificación del Empleo (Figura \@ref(fig:clasificacionsegundasviviendas)), respecto del tipo de gestión que suministra la información.
 
-```{r clasificacionsegundasviviendas, echo=FALSE, fig.cap="Figura N° 3C. Clasificación de los registros administrativos ligados a las segundas viviendas y al empleo por tipo de información" }
+```{r clasificacionsegundasviviendas, echo=FALSE, fig.cap="Clasificación de los registros administrativos ligados a las segundas viviendas y al empleo por tipo de información" }
 knitr::include_graphics('imagenes/figura03C.png')
 ```
 

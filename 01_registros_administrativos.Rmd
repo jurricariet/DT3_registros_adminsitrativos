@@ -68,7 +68,7 @@ Como ya se ha mencionado, desarrollar una metodología válida y clara es fundam
 
 Con el objetivo de proponer las pautas para la producción de estadísticas, en base a los `RA`, en la **Figura N°2** se presenta un conjunto de etapas y/o fases para la correcta conversión de la información almacenada en los mismos tal que permitan cuantificar el objetivo buscado. En la siguiente figura se presenta una posible secuencia lógica de estas fases:
 
-```{r Fases, echo=FALSE, fig.cap="Figura N° 2. Fases de la conversión de datos provenientes de registros administrativos en información estadística" }
+```{r Fases, echo=FALSE, fig.cap="Fases de la conversión de datos provenientes de registros administrativos en información estadística" }
 knitr::include_graphics('imagenes/figura02.png')
 ```
 
