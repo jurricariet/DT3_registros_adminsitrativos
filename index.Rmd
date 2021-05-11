@@ -13,7 +13,7 @@ description: "Descripción, Análisis y Utilización de Registros Administrativo
 
 # **Presentación** {.unnumbered}
 
-El presente documento, **Descripción, Análisis y Utilización de los Registros Administrativos para la medición del Turismo**, se enmarca en el proyecto de Armonización de las Estadísticas de Turismo en las Provincias de la Dirección Nacional de Mercados y Estadística de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes. El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
+El presente documento, **Descripción, Análisis y Utilización de los Registros Administrativos para la medición del Turismo**, se enmarca en el proyecto de Armonización de las Estadísticas de Turismo en las Provincias de la [Dirección Nacional de Mercados y Estadística de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes](http://datos.yvera.gob.ar/). El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
 
 ### Documento Técnico Nº3 - Resumen {.unnumbered}
 
@@ -21,11 +21,11 @@ Este documento presenta la problematización en torno a la utilización de los R
 
 > "...la experiencia confirma, la necesidad de promover el uso de fuentes administrativas asociadas a los controles en frontera y los flujos de transporte, entre otras razones, porque es imposible desarrollar un Sistema de Estadísticas de Turismo y las Cuentas Satélite basándose exclusivamente en encuestas..." [@ife2006].
 
-En el **capítulo** \@ref(los-registros-administrativos) se realiza una síntesis introductoria teórica en torno a la conceptualización de los registros administrativos y, a la vez, se propone una secuencia de pasos para desarrollar y potenciar el aprovechamiento de los mismos.
+En el **Capítulo** \@ref(los-registros-administrativos) se realiza una síntesis introductoria teórica en torno a la conceptualización de los registros administrativos y, a la vez, se propone una secuencia de pasos para desarrollar y potenciar el aprovechamiento de los mismos.
 
-En el **capítulo** \@ref(clasificaciones) se propone la clasificación de los registros administrativos en base a las distintas dimensiones vinculadas a la información proporcionada por los diferentes tipos de registros que se han sistematizado en el marco del Proyecto.
+En el **Capítulo** \@ref(clasificaciones) se propone la clasificación de los registros administrativos en base a las distintas dimensiones vinculadas a la información proporcionada por los diferentes tipos de registros que se han sistematizado en el marco del Proyecto.
 
-Finalmente, en el **capítulo** \@ref(algunos-ejemplos) se elabora un esquema de análisis para la comprensión conceptual de los posibles usos de los registros administrativos, con el propósito de brindar elementos para su interpretación y utilización como insumo para la producción de estadísticas de Turismo, reflexionando mediante ejemplos puntuales que sirven como disparadores para la innovación de metodologías que permitan realizar el proceso de conversión de los datos originales en información estadística.
+Finalmente, en el **Capítulo** \@ref(algunos-ejemplos) se elabora un esquema de análisis para la comprensión conceptual de los posibles usos de los registros administrativos, con el propósito de brindar elementos para su interpretación y utilización como insumo para la producción de estadísticas de Turismo, reflexionando mediante ejemplos puntuales que sirven como disparadores para la innovación de metodologías que permitan realizar el proceso de conversión de los datos originales en información estadística.
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

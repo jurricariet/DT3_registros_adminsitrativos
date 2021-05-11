@@ -22,7 +22,7 @@ Las perspectivas de clasificación propuesta corresponden, en primer lugar, a qu
 
 En primer lugar, se elaboró una tipología de clasificación que identifica el tipo de información que los diferentes `RA` almacenan y proporcionan, como así también, cuáles son las fuentes de información que suministran los respectivos `RA`. Se presentan cinco agregados desde los cuales al interior de cada uno de ellos se realizan sub-desagregaciones que procuran desarrollar analíticamente cada una de las dimensiones para la producción de estadísticas de Turismo. 
 
-En primer lugar, el Transporte, agrupa a tres tipos: Terrestre, Aéreo y/o Acuático (Figura \@ref(fig:clasificaciontransporte)). 
+En primer lugar, el Transporte, agrupa a tres tipos: Terrestre, Aéreo y/o Acuático. 
 
 
 
