@@ -11,9 +11,19 @@ link-citations: yes
 description: "Descripción, Análisis y Utilización de Registros Administrativos para la medición del Turismo"
 ---
 
-# **Presentación** {.unnumbered}
+# Presentación {.unnumbered}
 
-El presente documento, **Descripción, Análisis y Utilización de los Registros Administrativos para la medición del Turismo**, se enmarca en el proyecto de Armonización de las Estadísticas de Turismo en las Provincias de la [Dirección Nacional de Mercados y Estadística de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes](http://datos.yvera.gob.ar/). El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
+El presente documento, **Descripción, Análisis y Utilización de los Registros Administrativos para la medición del Turismo**, se enmarca en el proyecto de *Armonización de las Estadísticas de Turismo en las Provincias* de la [Dirección Nacional de Mercados y Estadística de la Subsecretaría de Desarrollo Estratégico del Ministerio de Turismo y Deportes](http://datos.yvera.gob.ar/){target="_blank"}. El objetivo general de este proyecto es contribuir con propuestas metodológicas para los sistemas de estadísticas de turismo provinciales que orienten a producir indicadores provinciales básicos y comparables.
+
+Además de este, se encuentran disponibles una serie de documentos técnicos que abordan otras problemáticas vinculadas a la producción de estadística de turismo:
+
+-   [Documento Técnico \#1](https://dnme-minturdep.github.io/DT1_medicion_turismo/){target="_blank"}: Conceptos y elementos básicos para la medición provincial de los turistas
+
+-   [Documento Técnico \#2](https://dnme-minturdep.github.io/DT2_encuestas/){target="_blank"}: Propuestas metodológicas para las encuestas de ocupación en alojamientos turísticos
+
+-   [Documento Técnico \#4](https://dnme-minturdep.github.io/DT4_perfiles/){target="_blank"}: Propuestas Metodológicas para las Encuestas de Perfil del Visitante
+
+-   Documento Técnico \#5: Medición de la contribución económica del turismo: actividad y empleo
 
 ### Documento Técnico Nº3 - Resumen {.unnumbered}
 

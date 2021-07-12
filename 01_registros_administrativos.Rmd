@@ -1,14 +1,14 @@
 # **Los registros administrativos**
 
-El objetivo de los apartados siguientes consiste en abordar con profundidad la importancia y la metodología de utilización de los Registros Administrativos como insumo clave para la elaboración de estadísticas de Turismo y, a la vez, proponer una reflexión compleja respecto de los usos potenciales de los mismos.
+El objetivo de los apartados siguientes es abordar la importancia y la metodología de utilización de los Registros Administrativos como insumo clave para la elaboración de estadísticas de Turismo y, a la vez, proponer una reflexión respecto de los usos potenciales de los mismos.
 
 ## ¿Qué son?
 
 En el marco de la generación de estadísticas básicas, una de las principales fuentes de información proviene de los registros administrativos (`RA`). Según la evidencia y las experiencias relevadas, actualmente es escasa su utilización como insumo para la elaboración y producción de estadísticas tendientes a la medición del Turismo.
 
-La explotación de los RA se posiciona como una herramienta para la producción de estadísticas de Turismo a nivel nacional, provincial y/o departamental. Éstos pueden ser complementados con el resto del sistema de información de las distintas unidades geográficas, comprendido por otros operativos estadísticos.
+La explotación de los RA se posiciona como una herramienta para la producción de estadísticas de Turismo a nivel nacional, provincial y/o departamental, ya que pueden complementarse con la información que surge de otras fuentes, por ejemplo, operativos propios (del organismo en cuestión) u otras fuentes secundarias.
 
-En la literatura especializada no se encuentra una definición universal respecto de qué es y qué se entiende por registro administrativo. Pese a esto, resulta importante analizar algunas de las definiciones encontradas:
+En la literatura especializada no se encuentra una definición universal respecto de qué se entiende por registro administrativo. Pese a esto, resulta importante analizar algunas de las definiciones encontradas:
 
 > "...todo registro resultante de necesidades fiscales, tributarias u otras, creado con la finalidad de viabilizar la administración de los programas de gobierno o para fiscalizar el cumplimento de obligaciones legales de la sociedad. Para su utilización con fines estadísticos es preciso evaluar su base conceptual y metodológica, clasificaciones, cobertura alcanzada, variables investigadas, calidad de las respuestas, procesamiento de los datos y frecuencia de disponibilidad de ellos..." [@cepal2003].
 
@@ -32,7 +32,7 @@ Según la Organización para la Cooperación y Desarrollo Económicos (OECD), la
 
 \* **Accesibilidad**: Evalúa la rapidez de localización y el acceso dentro de la organización. La accesibilidad incluye la conveniencia de la manera en que los datos están disponibles, los medios de divulgación, la disponibilidad de metodologías, metadatos, datos y servicios de apoyo al usuario [@oecd2003].
 
-Es necesario tener en cuenta que la forma en que se presentan los datos a los usuarios sea en forma clara y comprensible, lo que implica estrategias de difusión adecuadas e imparciales y si el usuario tiene acceso a metadatos actualizados, sin ningún tipo de restricción. Además, es necesario contar con sistemas de apoyo a los usuarios que utilizan los datos.
+Es necesario tener en cuenta que la forma en que se presentan los datos a los usuarios sea clara y comprensible, lo que implica estrategias de difusión adecuadas e imparciales y si el usuario tiene acceso a metadatos actualizados, sin ningún tipo de restricción. Además, es necesario contar con sistemas de apoyo a los usuarios que utilizan los datos.
 
 En términos de la CEPAL, este criterio contempla las *«condiciones físicas en que los usuarios pueden obtener los datos: dónde y cómo pedirlos, tiempo de entrega, política clara de precios, formatos de disponibilidad, otros*»[@cepal2003].
 
@@ -64,9 +64,7 @@ El fortalecimiento de los `RA` para fines estadísticos constituye un proceso qu
 
 En este sentido, a fin de que un registro administrativo sea utilizado para un análisis estadístico se deberán contemplar, al menos, los siguientes criterios: la base metodológica, la clasificación con la que cuenta el registro, la cobertura geográfica, la calidad de la registración de los datos que posee, la temporalidad y oportunidad y los medios por los cuales se puede disponer de la información [@inegi2006].
 
-Como ya se ha mencionado, desarrollar una metodología válida y clara es fundamental para una correcta utilización de los `RA` en la confección de estadísticas del turismo (ET). Por ende, se reconoce la importancia que posee la confección de un herramental técnico a fin de facilitar su utilización.
-
-Con el objetivo de proponer las pautas para la producción de estadísticas, en base a los `RA`, en la **Figura N°2** se presenta un conjunto de etapas y/o fases para la correcta conversión de la información almacenada en los mismos tal que permitan cuantificar el objetivo buscado. En la siguiente figura se presenta una posible secuencia lógica de estas fases:
+Como ya se ha mencionado, desarrollar una metodología válida y clara es fundamental para una correcta utilización de los RA en la confección de estadísticas del turismo (ET). Así, en la **Figura N°1.2** se presenta un conjunto de etapas y/o fases para la correcta conversión de la información almacenada en los RA, tal que permitan abordar el objetivo buscado por quien los esté utilizando.
 
 ```{r Fases, echo=FALSE, fig.cap="Fases de la conversión de datos provenientes de registros administrativos en información estadística" }
 knitr::include_graphics('imagenes/figura02.png')
@@ -98,7 +96,7 @@ En conclusión, no sólo resulta importante la selección del `RA` a utilizar pa
 
 ## Situación Internacional
 
-La Organización Mundial del Turismo (OMT) recomienda la utilización de los `RA` como una de las fuentes secundarias principales, junto a las encuestas, para la producción y elaboración de estadísticas tendientes a la medición del Turismo.
+La Organización Mundial del Turismo (OMT) recomienda la utilización de los RA como una de las fuentes secundarias principales, junto a las encuestas, para la producción de estadísticas tendientes a la medición del Turismo.
 
 En este sentido, en línea con lo comentado anteriormente, se resalta el hecho de que las estadísticas basadas en `RA` suelen ser subproductos de los procesos administrativos. Asimismo, enuncian que con frecuencia se basan en operaciones continuas, por lo que pueden ser una fuente útil de estadísticas constantes y longitudinales. Sin embargo, se reconoce el hecho de que los `RA` también pueden tener algunos inconvenientes, como una cobertura y contenido limitados, conceptos y definiciones inflexibles, falta de exhaustividad, incoherencias y un acceso limitado debido a restricciones legales o administrativas [@omt2010].
 
@@ -110,7 +108,7 @@ Un caso que resulta relevante mencionar es el de España, debido a la utilizaci�
 
 -   El análisis de los `RA` empleados en la Encuesta de Movimientos Turísticos en Fronteras (Frontur).
 
--   El análisis de la información de vuelos -y pasajeros internacionales que Aeropuertos Españoles y Navegación Aérea (AENA).
+-   El análisis de la información de vuelos -y pasajeros internacionales de Aeropuertos Españoles y Navegación Aérea (AENA).
 
 -   El análisis del registro de entradas y salidas en el Museo del Prado.
 
@@ -120,9 +118,39 @@ Por último, en Finlandia, como en varios otros países de Europa, la utilizaci�
 
 ## Situación Nacional
 
-En el marco de la experiencia nacional, resulta relevante destacar la utilización de `RA` por una de las principales encuestas nacionales de turismo, la Encuesta de Turismo Internacional (ETI). Este operativo utiliza como marco muestral a la base de datos de la Dirección Nacional de Migraciones (DNM). Es decir, posteriormente a la ejecución de las encuestas se verifican los registros de la DNM en cuanto a cantidad de visitantes que ingresan y residentes que egresan, clasificándolos según origen y destino respectivamente. Seguidamente se encuesta a una muestra estratificada, previamente definida, tomando como base a dicho registro de la DNM y, finalmente, los resultados se expanden al total del marco muestral.
+En el marco de la experiencia nacional, resulta relevante destacar la utilización de los RA sistematizados en las bases de datos de la Dirección Nacional de Migraciones (DNM) de ingresos y egresos de personas por los pasos fronterizos del país, lo cual constituye una de las fuentes principales para la estimación del turismo internacional de la Argentina. El procesamiento de dichos RA implican una serie de instancias para poder realizar la estimación de visitantes (turistas y excursionistas):
+1. Eliminación de registros duplicados. 
+2. Identificación de viajeros tripulantes, con el fin de excluirlos de la estimación de visitantes.
+3. Identificación de viajeros frecuentes, con el fin de excluirlos de la estimación de visitantes.
+4. Contabilización de visitantes, identificando turistas y excursionistas en función del pernocte. 
+5. Estimación de la condición de residencia de los turistas y excursionistas (desde julio 2020).
+Con este proceso, y junto con información obtenida de la Encuesta de Turismo Internacional (ETI), se realiza todos los meses la estimación de turismo receptivo y emisivo de la Argentina. Cabe destacar también, que dichos registros constituyen el univeso poblacional al cual se expanden los datos muestrales de la ETI.
 
-Asimismo, desde el Ministerio de Turismo y Deportes de la Nación (MINTURDEP), se recopilan cifras sobre la cantidad de visitantes a los Parque Nacionales, dependientes de la Administración Nacional de Parques, ubicados en las distintas jurisdicciones provinciales. En su mayoría estos datos se encuentran clasificados por nacionalidad de origen (argentinos/extranjeros). Dentro de la última variable, en varios casos, los argentinos se encuentran diferenciados según tengan origen o no en la provincia en donde se encuentra el Parque Nacional en cuestión. Con esta información, el MINTURDEP elabora estimaciones estadísticas sobre visitantes a un subconjunto de los distintos parques nacionales, constituidos por una selección de 35 parques que cuentan con métodos sistemáticos de registro de visitas de las 48 áreas protegidas nacionales existentes. Es decir, no se cuenta con información sobre la totalidad de los parques nacionales existentes, no obstante, lo importante es que gracias a las cifras recopiladas se posibilita la confección de estadísticas importantes a muy bajo costo, de manera sistemática y confiable debido a que los datos recibidos poseen una gran robustez gracias a la metodología mediante la cual se recaban históricamente.
+::: {.note}
+Para mayor información consulte el informe metodológico de la estimacion del turismo internacional de Argentina:
+
+Documento metodológico. [Estimación del turismo internacional de Argentina](https://www.yvera.tur.ar/estadistica/documentos/descarga/5dc0460bcfa3e053142696.pdf){target="_blank"}
+
+Y para mayor detalle de los conceptos básicos en la definición de visitante: [Documento Técnico #1](https://dnme-minturdep.github.io/DT1_medicion_turismo/flujo-turistico.html#medici%C3%B3n){target="_blank"}  
+:::
+
+Asimismo, desde el Ministerio de Turismo y Deportes de la Nación (MINTURDEP), se recopilan cifras sobre la cantidad de visitantes a los Parque Nacionales, dependientes de la Administración Nacional de Parques, ubicados en las distintas jurisdicciones provinciales. En su mayoría estos datos se encuentran clasificados por nacionalidad de origen (argentinos/extranjeros). Dentro de la última variable, en varios casos, los argentinos se encuentran diferenciados según tengan origen o no en la provincia en donde se encuentra el Parque Nacional en cuestión. Con esta información, el MINTURDEP elabora estimaciones estadísticas sobre visitantes a un subconjunto de los distintos parques nacionales, constituidos por una selección de 35 parques que cuentan con métodos sistemáticos de registro de visitas de las 49 áreas protegidas nacionales existentes. Es decir, no se cuenta con información sobre la totalidad de los parques nacionales existentes. No obstante, gracias a las cifras recopiladas por APN, el MINTURDEP cuenta con la posibilidad de confeccionar estadísticas importantes en relación a los flujos de visitas, de manera sistemática y confiable, dado que los datos recibidos poseen robustez gracias a la metodología mediante la cual se recaban históricamente.
+
+::: {.note}
+Para mayor información sobre los PN  podes consultar los informes mensuales publicados en:
+
+[Yvera - Parques Nacionales](https://www.yvera.tur.ar/estadistica/info/parques-nacionales){target="_blank"}
+
+[Series estadísticas](http://datos.yvera.gob.ar/dataset/parques-nacionales){target="_blank"}
+:::
+
+Otro RA utilizado sistemáticamente por el MINTURDEP es la base de movimientos aéreos, de cabotaje e internacional, que elabora la Administración Nacional de Aviación Civil (ANAC), y que incluye todo tipo de movimientos aéreos- regulares, no regulares, como así también aquellos movimientos correspondientes a vuelos privados, a vuelos oficiales y a maniobras. La información de esta fuente, ya sea en forma pura o en combinación con los datos de otra fuente secundaria (la base de la DNM), resulta de suma utilidad para complementar el análisis de turismo interno e internacional. La cobertura de la información de esta fuente es total, ya que capta todos los movimientos (hasta las maniobras de las escuelas de aviación). Sin embargo, acorde al objetivo de caracterizar el turismo interno e internacional, el MINTURDEP realiza un recorte de esta base, seleccionando únicamente los movimientos de un conjunto de empresas comerciales, que realizan habitualmente vuelos regulares y no regulares, ya que es probable que estos últimos transporten mayoriatariamente visitantes (aunque el  ser “pasajero” no es sinónimo de ser “visitante”).
+
+::: {.note}
+Para consultar las estadísticas aerocomerciales de la Argentina podes visitar la sección de datos de la página wen de la [ANAC](https://datos.anac.gob.ar/estadisticas/){target="_blank"}
+:::
+
+Finalmente, el SIPA -Sistema Integrado Previsional Argentino- es otro RA trabajado por el por el [Ministerio de Trabajo](http://www.trabajo.gob.ar/estadisticas/){target="_blank"} y utilizado por el MINTURDEP para el seguimiento del empleo en el sectór turístico. El SIPA contabiliza los puestos de trabajo privados asalariados registrados a nivel mensual y trimestral con distintos niveles de desagregación geográfica (nacional y provincial) y de ramas de acividad.Su utilización para la estadística de turismo es tratada en el Documento Tecnico N°5.     
 
 Por otro lado, a nivel provincial, departamental y/o municipal se utilizan múltiples `RA` tanto desde la perspectiva de la oferta como de demanda. Aun así, existe subexplotación de la información existente y, en segundo lugar, falencias con el relevamiento y procesamiento de la información.
 
@@ -132,17 +160,12 @@ A continuación, se listan los puntos más comunes en torno a las falencias menc
 
 -   Escaso procesamiento estadístico: como ya se ha mencionado, los `RA` no se encuentran diseñados específicamente para su explotación estadística, es decir, no suelen estar sometidos a validaciones o correcciones no estadísticas de errores. En efecto, se requiere de un procesamiento de conversión adecuado de los datos recibidos para luego poder utilizarlos en un estudio de tipo estadístico.
 
--   Falta de actualización de datos: es usual que a partir de `RA` se realizan estudios muestrales a fin de calcular coeficientes, para posteriormente llevar a cabo análisis sobre el universo bajo estudio. Éstos requieren ser actualizados, cada determinado período de tiempo, a fin de reflejar en forma más fehaciente la realidad del sector. Por ejemplo, si en el año 2013 se estiman coeficientes sobre la cantidad de individuos por automóvil que entran a una cierta localidad, éste debe ser recalculado cada una determinada cantidad de años, de acuerdo a los cambios que caben esperarse. Esto se debe a que la situación del sector turístico no es uniforme a lo largo de los años. Con el paso del tiempo podrían registrarse variaciones, positivas y/o negativas respecto del flujo turístico hacia las distintas localidades, aun cuando se mantenga constante el flujo vehicular, pero la cantidad de personas promedio podría disminuir.
+-   Falta de actualización de datos: es usual que a partir de `RA` se realicen estudios muestrales a fin de calcular coeficientes, para posteriormente llevar a cabo análisis sobre el universo bajo estudio. Éstos requieren ser actualizados, cada determinado período de tiempo, a fin de reflejar en forma más fehaciente la realidad del sector. Por ejemplo, si en el año 2019 se estiman coeficientes sobre la cantidad de individuos por automóvil que entran a una cierta localidad, éste debe ser recalculado cada una determinada cantidad de años, de acuerdo a los cambios que caben esperarse. Esto se debe a que la situación del sector turístico no es uniforme a lo largo de los años. Con el paso del tiempo podrían registrarse variaciones, positivas y/o negativas respecto del flujo turístico hacia las distintas localidades, aun cuando se mantenga constante el flujo vehicular, pero la cantidad de personas promedio podría disminuir.
 
--   Falta de incorporación de la estacionalidad del sector en los estudios estadísticos: los coeficientes también deben ser ajustados según el momento turístico del año en cada jurisdicción. En todas las provincias, departamentos y/o municipios, se pueden reconocer sub-periodos de mayor o menor afluencia turística (temporada alta/baja), dentro de un mismo año, y cada uno merece un tratamiento especializado. Al reconocer la estacionalidad y la elasticidad frente a las condiciones socioeconómicas que posee el sector turístico, se resalta la importancia que la actualización de las estimaciones poseen. Así, resulta importante contar con un calendario turístico, de modo de identificarlos momentos que pertenecen a períodos de mayor o menor movimiento de visitantes.
+-   Falta de incorporación de la estacionalidad del sector en los estudios estadísticos: los coeficientes también deben ser ajustados según el momento turístico del año en cada jurisdicción. En todas las provincias, departamentos y/o municipios, se pueden reconocer sub-periodos de mayor o menor afluencia turística (temporada alta/baja), dentro de un mismo año, y cada uno merece un tratamiento especializado. Al reconocer la estacionalidad y la elasticidad frente a las condiciones socioeconómicas que posee el sector turístico, se resalta la importancia que la actualización de las estimaciones poseen. Así, resulta importante contar con un calendario turístico, de modo de identificar los momentos que pertenecen a períodos de mayor o menor movimiento de visitantes.
 
 En síntesis, se debe evaluar la posibilidad de realización de estudios sencillos y acotados ejecutados de la forma más eficiente y con el menor despliegue de recursos, que permitan luego, a partir de los datos que brinda el `RA`, realizar una estimación de las cantidades y de ciertas características de los visitantes.
 
-En el capítulo siguiente, se presenta y propone una clasificación de los `RA`, con el propósito de orientar la identificación de cada uno de ellos según: el tipo de información que proporciona y su fuente de información, la perspectiva de oferta y demanda, según su alcance y, por último, su utilización. Todos ellos, dependiendo de los objetivos del tipo de estudio propuesto y la respectiva clasificación de los registros contemplados como insumo para la producción de estadísticas de medición del Turismo.
-
-A partir de la información recopilada en cada una de las provincias, en cuanto a la utilización de los `RA` y en base al análisis de los avances realizados a nivel internacional sobre las metodologías puestas en marcha para el tratamiento de éstos, en el capítulo 3 y 4 se plantea, desde la perspectiva de la demanda, un esquema para la implementación de los procesos de fortalecimiento en la generación y producción de ET. Esto es posible, mediante el aprovechamiento de los `RA` recabados por las diferentes áreas informantes a nivel provincial, departamental y/o municipal de carácter público y/o privado.
-
-\
-
+En el capítulo siguiente, se presenta y propone una clasificación de los `RA`, con el propósito de orientar la identificación de cada uno de ellos según: el tipo de información que proporciona y su fuente de información, la perspectiva de oferta y demanda, según su alcance y, por último, su utilización.
 \
 \
