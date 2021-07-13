@@ -108,7 +108,7 @@ Un caso que resulta relevante mencionar es el de España, debido a la utilizaci�
 
 -   El análisis de los `RA` empleados en la Encuesta de Movimientos Turísticos en Fronteras (Frontur).
 
--   El análisis de la información de vuelos -y pasajeros internacionales de Aeropuertos Españoles y Navegación Aérea (AENA).
+-   El análisis de la información de vuelos y pasajeros internacionales de Aeropuertos Españoles y Navegación Aérea (AENA).
 
 -   El análisis del registro de entradas y salidas en el Museo del Prado.
 
@@ -147,7 +147,7 @@ Para mayor información sobre los PN  podes consultar los informes mensuales pub
 Otro RA utilizado sistemáticamente por el MINTURDEP es la base de movimientos aéreos, de cabotaje e internacional, que elabora la Administración Nacional de Aviación Civil (ANAC), y que incluye todo tipo de movimientos aéreos- regulares, no regulares, como así también aquellos movimientos correspondientes a vuelos privados, a vuelos oficiales y a maniobras. La información de esta fuente, ya sea en forma pura o en combinación con los datos de otra fuente secundaria (la base de la DNM), resulta de suma utilidad para complementar el análisis de turismo interno e internacional. La cobertura de la información de esta fuente es total, ya que capta todos los movimientos (hasta las maniobras de las escuelas de aviación). Sin embargo, acorde al objetivo de caracterizar el turismo interno e internacional, el MINTURDEP realiza un recorte de esta base, seleccionando únicamente los movimientos de un conjunto de empresas comerciales, que realizan habitualmente vuelos regulares y no regulares, ya que es probable que estos últimos transporten mayoriatariamente visitantes (aunque el  ser “pasajero” no es sinónimo de ser “visitante”).
 
 ::: {.note}
-Para consultar las estadísticas aerocomerciales de la Argentina podes visitar la sección de datos de la página wen de la [ANAC](https://datos.anac.gob.ar/estadisticas/){target="_blank"}
+Para consultar las estadísticas aerocomerciales de la Argentina podes visitar la sección de datos de la página web de la [ANAC](https://datos.anac.gob.ar/estadisticas/){target="_blank"}
 :::
 
 Finalmente, el SIPA -Sistema Integrado Previsional Argentino- es otro RA trabajado por el por el [Ministerio de Trabajo](http://www.trabajo.gob.ar/estadisticas/){target="_blank"} y utilizado por el MINTURDEP para el seguimiento del empleo en el sectór turístico. El SIPA contabiliza los puestos de trabajo privados asalariados registrados a nivel mensual y trimestral con distintos niveles de desagregación geográfica (nacional y provincial) y de ramas de acividad.Su utilización para la estadística de turismo es tratada en el Documento Tecnico N°5.     

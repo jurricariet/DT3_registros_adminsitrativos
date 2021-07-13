@@ -4,7 +4,7 @@ De los datos provenientes de registros administrativos en estadística de turism
 
 A partir de las experiencias provinciales se presentan algunos ejemplos de abordaje metodológico para la elaboración y producción de estadística a partir datos que pueden obtenerse desde distintos `Registros Administrativos` .
 
-En primer lugar, tal como se mencionó anteriormente, siempre que se trabaje con algún `Registros Administrativos`  debe tenerse en cuenta cuál es la población objetivo a la cual éste hace referencia. Esto resulta importante, esencialmente, para los registros de entradas a atractivos turísticos (naturales, culturales y/o recreativos). Por ejemplo, si una provincia cuenta con cifras sobre tickets vendidos en un Parque Nacional, la oficina generadora de estadísticas del turismo debe tener presente que se está haciendo referencia sólo a los visitantes a dicho atractivo y no resultaría posible su expansión al total provincial de manera directa.
+En primer lugar, tal como se mencionó anteriormente, siempre que se trabaje con algún `Registros Administrativos` debe tenerse en cuenta cuál es la población objetivo a la cual éste hace referencia. Esto resulta importante, esencialmente, para los registros de entradas a atractivos turísticos (naturales, culturales y/o recreativos). Por ejemplo, si una provincia cuenta con cifras sobre tickets vendidos en un Parque Nacional, la oficina generadora de estadísticas del turismo debe tener presente que se está haciendo referencia sólo a los visitantes a dicho atractivo y no resultaría posible su expansión al total provincial de manera directa.
 
 A su vez, si se cuenta con un registro sobre entradas y salidas por un acceso terrestre X, pero además en la provincia existen otros accesos de los cuales no se posee registro alguno, se deberá tener presente que en este caso tampoco se hace referencia a la totalidad de los visitantes en la provincia, sino a los "visitantes en la provincia que ingresan por el acceso terrestre X".
 
@@ -12,15 +12,15 @@ En general, se observa una escasa explotación de los múltiples registros exist
 
 En los apartados subsiguientes, se proponen algunos esquemas de tratamiento de los `Registros Administrativos` , procurando identificar las particularidades, ventajas, limitaciones y la información que cada uno ofrece y que hacen que, en consecuencia, se deban diseñar e implementar alternativas metodológicas específicas de conversión de los datos registrados en información turística.
 
-Resulta frecuente encontrar que las áreas destinadas a la producción de ET utilizan distintos `Registros Administrativos`  favoreciendo cuantificar la evolución, el comportamiento y las perspectivas del sector Turismo. Sin embargo, se ha registrado cierta subexplotación de estos. A su vez, se puede advertir sobre posibles faltas de procedimientos metodológicos sólidos para el procesamiento de datos provenientes de los `Registros Administrativos` . Por ello, a continuación se presentan, a través de ejemplos, alternativas de tratamientos para la conversión de las unidades administrativas en datos estadísticos.
+Resulta frecuente encontrar que las áreas destinadas a la producción de ET utilizan distintos `Registros Administrativos` favoreciendo cuantificar la evolución, el comportamiento y las perspectivas del sector Turismo. Sin embargo, se ha registrado cierta subexplotación de estos. A su vez, se puede advertir sobre posibles faltas de procedimientos metodológicos sólidos para el procesamiento de datos provenientes de los `Registros Administrativos` . Por ello, a continuación se presentan, a través de ejemplos, alternativas de tratamientos para la conversión de las unidades administrativas en datos estadísticos.
 
 ## Empresas de Peajes
 
-Una de las principales fuentes secundarias de información en base a `Registros Administrativos`  consiste en las empresas de peajes que se encuentran localizadas en diferentes puntos carreteros y vías de ingreso a las provincias, departamentos y/o municipios que resultan de gran utilidad como insumo para la elaboración de estadísticas de turismo. Cabe señalar que puestos de control vehicular (policiales, sanitarios) con registros continuos y rigurosos cumplen una función análoga a la de las estaciones de cobro de peaje.
+Una de las principales fuentes secundarias de información en base a `Registros Administrativos` consiste en las empresas de peajes que se encuentran localizadas en diferentes puntos carreteros y vías de ingreso a las provincias, departamentos y/o municipios que resultan de gran utilidad como insumo para la elaboración de estadísticas de turismo. Cabe señalar que puestos de control vehicular (policiales, sanitarios) con registros continuos y rigurosos cumplen una función análoga a la de las estaciones de cobro de peaje.
 
 Los datos suministrados por las firmas de peajes presentan limitaciones en su utilización directa como indicador estadístico de turismo, debido a que sólo contabilizan la cantidad de vehículos que pasan por un determinado punto. Por lo tanto, se requiere de una estrategia metodológica (proceso de conversión) específica para su utilización como insumo en la construcción de indicadores de turismo.
 
-Acorde a la secuencia previamente presentada (en la Figura N° 2) suponiendo que la ubicación geográfica de un puesto de peaje es la vía de acceso a tres localidades distintas, A, B y C, y una de ellas requiere conocer cuál es la cantidad de arribos de visitantes, para lo cual solicita (y accede) a los `Registros Administrativos`  del puesto de peaje.
+Acorde a la secuencia previamente presentada (en la Figura N° 2) suponiendo que la ubicación geográfica de un puesto de peaje es la vía de acceso a tres localidades distintas, A, B y C, y una de ellas requiere conocer cuál es la cantidad de arribos de visitantes, para lo cual solicita (y accede) a los `Registros Administrativos` del puesto de peaje.
 
 La localidad ¨C¨ cuenta con mayor capacidad institucional para implementar un operativo in situ con el propósito de generar la información necesaria para elaborar coeficientes de distribución, que le permitan cuantificar efectivamente la cantidad de arribos de vehículos que ingresan a su localidad y, a la vez, relevar algunas variables que le permitan estimar la cantidad de visitantes, turistas y/o excursionistas.
 
@@ -32,7 +32,7 @@ El muestreo fue aleatorio y sistemático (uno de cada X autos que pasaban por el
 
 [^ejemplos-1]: A los fines de no complejizar el ejercicio, se asume que todos los vehículos que cruzan el puesto de peaje se dirigen a una de las tres localidades contempladas
 
-Los resultados de este estudio permitieron determinar, para cada uno de los tres periodos, el porcentaje de autos que arriba a cada localidad, el promedio de pasajeros por auto a cada localidad, para el total de pasajeros por localidad, la proporción de residentes y de visitantes, diferenciados en turistas (cuando pernoctan en el destino) y en excursionistas (cuando no pernoctan). Aplicando estos resultados a la totalidad de automóviles que cruzan en cada periodo el puesto de peaje (`Registros Administrativos`  suministrado por la empresa), es posible estimar el total de visitantes (distinguiendo turistas y excursionistas) que arriban a cada una de las tres localidades por esta vía a lo largo de un año.
+Los resultados de este estudio permitieron determinar, para cada uno de los tres periodos, el porcentaje de autos que arriba a cada localidad, el promedio de pasajeros por auto a cada localidad, para el total de pasajeros por localidad, la proporción de residentes y de visitantes, diferenciados en turistas (cuando pernoctan en el destino) y en excursionistas (cuando no pernoctan). Aplicando estos resultados a la totalidad de automóviles que cruzan en cada periodo el puesto de peaje (`Registros Administrativos` suministrado por la empresa), es posible estimar el total de visitantes (distinguiendo turistas y excursionistas) que arriban a cada una de las tres localidades por esta vía a lo largo de un año.
 
 Por otro lado, se cuenta con información proporcionada por la empresa de peajes. Ésta informó que durante el año ingresó la siguiente cantidad de vehículos (automóviles y camionetas particulares) por el puesto:
 
@@ -42,23 +42,21 @@ Por otro lado, se cuenta con información proporcionada por la empresa de peajes
 
 -   Resto del año (abril a noviembre excepto fines de semana largo): 35.000
 
-La Figura N° 4 muestra los resultados del estudio, cuya obtención se detalla a continuación.
-
+La Figura N° 3.1 muestra los resultados del estudio, cuya obtención se detalla a continuación.
 
 ```{r estudioslocalidade, echo=FALSE, fig.cap="Resultados del estudio realizado por la localidad C" }
 knitr::include_graphics('imagenes/figura04.png')
 ```
 
+El primer paso, consistió en diferenciar la localidad de destino. De la encuesta implementada, 600 casos en total, se desprendió que 150 vehículos ($25\%$) fueron con destino a la localidad *A*, 210 ($35\%$) a la *B* y 240 ($40\%$) a la localidad *C*.
 
-El primer paso, consistió en diferenciar la localidad de destino. De la encuesta implementada, 600 casos en total, se desprendió que 150 vehículos (25%) fueron con destino a la localidad ¨A¨, 210 (35%) a la ¨B¨ y 240 (40%) a la localidad ¨C¨.
+La cantidad promedio de pasajeros por vehículo a cada localidad, fue de 2,3 personas hacia *A* (345 personas en 150 vehículos), 3,0 personas hacia *B* y 4,0 personas hacia la localidad *C*. Este dato resulta relevante si es que se busca aplicar dichos coeficientes a futuras estimaciones. Para este punto resulta relevante tener presente las necesidades de actualización mencionadas en el primer capítulo.
 
-La cantidad promedio de pasajeros por vehículo a cada localidad, fue de 2,3 personas hacia ¨A¨ (345 personas en 150 vehículos), 3,0 personas hacia ¨B¨ y 4,0 personas hacia la localidad ¨C¨. Este dato resulta relevante si es que se busca aplicar dichos coeficientes a futuras estimaciones. Para este punto resulta relevante tener presente las necesidades de actualización mencionadas en el primer capítulo.
+Fuera de Temporada Alta (entre abril y noviembre, sin contar los fines de semana largos)del estudio implementado, se desprende que el $20\%$ fueron con destino a la localidad *A*, el $45\%$ a la *B* y el $35\%$ a la localidad *C*, con una cantidad promedio de pasajeros de 2,0 por vehículo hacia *A*, 2,5 hacia *B* y 3,0 hacia *C*.
 
-Fuera de Temporada Alta (entre abril y noviembre, sin contar los fines de semana largos)del estudio implementado, se desprende que el 20% fueron con destino a la localidad ¨A¨, el 45% a la ¨B¨ y el 35% a la localidad ¨C¨, con una cantidad promedio de pasajeros de 2,0 por vehículo hacia ¨A¨, 2,5 hacia ¨B¨ y 3,0 hacia ¨C¨.
+Como se puede observar, la diferencia entre ambos periodos de temporada radica tanto en la proporción de vehículos que tiene como destino cada localidad (por ejemplo, a la localidad A se dirige el $25\%$ de los vehículos de temporada alta y el $45\%$ de los de fuera de temporada), como en la cantidad de pasajeros promedio por vehículo (siguiendo con la localidad A, 2,3 personas en temporada alta y 2,0 personas fuera de temporada).
 
-Como se puede observar, la diferencia entre ambos periodos de temporada radica tanto en la proporción de vehículos que tiene como destino cada localidad (por ejemplo, a la localidad A se dirige el 25% de los vehículos de temporada alta y el 45% de los de fuera de temporada), como en la cantidad de pasajeros promedio por vehículo (siguiendo con la localidad A, 2,3 personas en temporada alta y 2,0 personas fuera de temporada).
-
-La empresa informó un tránsito de 18.500 vehículos en todos los fines de semana largos del año, aunque el estudio se realizó en sólo uno de ellos[^ejemplos-2]. De la encuesta implementada, se desprende que 270 (45%) fueron a la localidad ¨A¨, 210 (35%) a la ¨B¨ y 120 (20%) a la ¨C¨ y con una cantidad promedio de 3 personas por vehículo hacia ¨A¨, 4,0 hacia ¨B¨ y 2,5 personas hacia la localidad ¨C¨.
+La empresa informó un tránsito de 18.500 vehículos en todos los fines de semana largos del año, aunque el estudio se realizó en sólo uno de ellos[^ejemplos-2]. De la encuesta implementada, se desprende que 270 ($45\%$) fueron a la localidad *A*, 210 ($35\%$) a la *B* y 120 ($20\%$) a la *C* y con una cantidad promedio de 3 personas por vehículo hacia *A*, 4,0 hacia *B* y 2,5 personas hacia la localidad *C*.
 
 [^ejemplos-2]: En este ejemplo se redujo a la existencia de un solo fin de semana largo, para evitar extender el razonamiento. Naturalmente, se deberá testear si hay o no diferencias sustanciales entre distintos fines de semana (por la época del año, por su extensión, etc.). para procurar registrar mejor la estacionalidad de los mismos.
 
@@ -66,37 +64,36 @@ En segundo lugar, respecto de la residencia habitual, en cada caso se consultó 
 
 [^ejemplos-3]: El mismo se define como la zona geográfica (aunque no necesariamente contigua) en la que la persona realiza sus actividades cotidianas habituales (reside y trabaja). No existe una definición exacta del entorno habitual brindada por la OMT, razón por la cual se presentan diferencias entre los distintos países. Sin embargo, se debe tener en consideración que existen dos criterios claves para su definición: distancia y frecuencia. Es decir, si el individuo se desplaza a una zona geográfica de corta distancia al lugar de donde reside y/o trabaja o lo hace con una frecuencia alta, se considera que éste no ha salido de su entorno habitual. Distinto ocurre si el mismo se desplaza a una zona que se encuentra a una distancia larga o con una frecuencia baja. Por ejemplo, la Encuesta de Viajes y Turismo de los Hogares (EVyTH) define y operacionaliza el entorno habitual de un individuo que se encuentra conformado por: los lugares situados dentro de un determinado radio de la ciudad / localidad donde reside el individuo (Se consideraron 40 Km. para la región del Gran Buenos Aires -la Ciudad de Buenos Aires más los Partidos que forman parte del Conurbano Bonaerense- y 20 Km. para el resto del país), o los visitados una o más veces por semana por el mismo, aunque estén situados a una distancia mayor a la ya mencionada.
 
-Por ejemplo, en la Temporada Alta, la cantidad total de visitantes que cruzaron por el peaje fue de 1.714 (sobre un total de 1.935 personas contabilizadas), de los cuales 290 tuvieron como destino la localidad ¨A¨ (266 turistas y 24 excursionistas -es decir, que no pernoctaron-) 599 la localidad ¨B¨ (562 turistas y 37 excursionistas), y por último, 825 a la localidad (760 turistas y 65 excursionistas).
+Por ejemplo, en la Temporada Alta, la cantidad total de visitantes que cruzaron por el peaje fue de 1.714 (sobre un total de 1.935 personas contabilizadas), de los cuales 290 tuvieron como destino la localidad *A* (266 turistas y 24 excursionistas -es decir, que no pernoctaron-) 599 la localidad *B* (562 turistas y 37 excursionistas), y por último, 825 a la localidad (760 turistas y 65 excursionistas).
 
-Asimismo, el relevamiento que contempló el periodo fuera de Temporada Alta y de los fines de semana largos, contabilizó, en los 600 autos que participaron del estudio, de 590 visitantes(sobre 1.545 personas que viajaban en estos vehículos, lo que muestra la preponderancia de residentes que se cuentan en este periodo): 85 a la localidad A (65 turistas y 20 excursionistas), 260 a la localidad ¨B¨ ( 195 y 65 respectivamente), y por último, 245 visitantes a la localidad ¨C¨ (183 turistas y 62 excursionistas).
+Asimismo, el relevamiento que contempló el periodo fuera de Temporada Alta y de los fines de semana largos, contabilizó, en los 600 autos que participaron del estudio, de 590 visitantes(sobre 1.545 personas que viajaban en estos vehículos, lo que muestra la preponderancia de residentes que se cuentan en este periodo): 85 a la localidad A (65 turistas y 20 excursionistas), 260 a la localidad *B* ( 195 y 65 respectivamente), y por último, 245 visitantes a la localidad *C* (183 turistas y 62 excursionistas).
 
-Por último, durante el fin de semana largo contemplado en el estudio, la cantidad total que surge del estudio sobre 600 vehículos arroja un total de 670 visitantes: 275 visitantes a la localidad A (185 turistas y 90 excursionistas), 310 a la localidad ¨B¨ (210 turistas y 100 excursionistas), y 85 a la localidad ¨C¨ ( 50 turistas y 35 excursionistas).
+Por último, durante el fin de semana largo contemplado en el estudio, la cantidad total que surge del estudio sobre 600 vehículos arroja un total de 670 visitantes: 275 visitantes a la localidad *A* (185 turistas y 90 excursionistas), 310 a la localidad *B* (210 turistas y 100 excursionistas), y 85 a la localidad *C* ( 50 turistas y 35 excursionistas).
 
 Es importante observar que los diferentes coeficientes de distribución elaborados varían en los tres periodos de tiempo considerados.
 
 Una vez elaborados los coeficientes en base al estudio, estos se deben aplicar a la cantidad total de vehículos, informados por la empresa, que cruzaron el puesto de peaje en cada uno de los tres periodos considerados. De ese modo, se obtendrá el total de visitantes (turistas y excursionistas por separado) para cada una de las localidades (Figura 5A).
 
-Como se podrá observar en la Figura N° 5/A, en la sabiendo que en la Temporada Alta el total de vehículos ingresados ha sido de 70.000 y que el 25% se dirigió a la localidad "A", 35% a la localidad "B" y 40% a la localidad "C", se puede concluir que en dicho período los automóviles que las localidades recibieron fueron, 17.500 (70.000\*25%), 24.500 (70.000\*35%) y 28.000 (70.000\*40%), respectivamente.
+Como se podrá observar en la Figura 3.2, en la sabiendo que en la Temporada Alta el total de vehículos ingresados ha sido de 70.000 y que el $25\%$ se dirigió a la localidad *A*, $35\%$ a la localidad *B* y $40\%$ a la localidad *C*, se puede concluir que en dicho período los automóviles que las localidades recibieron fueron, 17.500 ($70.000$\*$25\%$), 24.500 ($70.000$\*$35\%$) y 28.000 ($70.000$\*$40\%$), respectivamente.
 
 ```{r coeficientes, echo=FALSE, fig.cap="Coeficientes del estudio realizado por la localidad C aplicados a los totales informados por la empresa de peaje" }
 knitr::include_graphics('imagenes/figura5A.png')
 ```
 
-
 El hecho de realizar tres estudios (uno para cada periodo temporal) indudablemente implica una erogación mayor que realizar sólo uno. No obstante, sólo de esta manera es posible reflejar fielmente la realidad y, más aún, poder realizar estudios longitudinales (comparación de llegadas de visitantes en distintos años, por ejemplo), que suele ser un objetivo común de las estadísticas de turismo[^ejemplos-4].
 
 [^ejemplos-4]: Si bien aquí no se entra en detalle sobre las cuestiones a tener en cuenta en el diseño de las muestras requeridas para los estudios planteados, pues el objetivo es llamar la atención sobre los procesos de construcción lógica de la información, en otros documentos elaborados en el marco del proyecto de Armonización de las Estadísticas de Turismo en las Provincias se desarrolla exhaustivamente, desde distintos ángulos, esta temática.
 
-La Figura N° 5/B permite comparar los resultados obtenidos más arriba con los que hubiesen surgido si se hubiese aplicado a las cantidades de vehículos de cada periodo los coeficientes correspondientes a la temporada alta.
+La Figura 3.3 permite comparar los resultados obtenidos más arriba con los que hubiesen surgido si se hubiese aplicado a las cantidades de vehículos de cada periodo los coeficientes correspondientes a la temporada alta.
 
 ```{r temporadaalta, echo=FALSE, fig.cap="Aplicación de coeficiente de Temporada Alta, obtenido del estudio realizado por la localidad C, a las cantidades de vehículos de todos los períodos (Temporada Alta, Fines de semana largo y Fuera de temporada)" }
 knitr::include_graphics('imagenes/figura5B.png')
 ```
 
 \
-Con estas dos Figuras se busca dar cuenta de la alteración que se produce en las estimaciones cuando no se toma en consideración la estacionalidad, mencionada en el primer capítulo. En este caso, si se aplica el coeficiente obtenido en temporada alta para todos los períodos, se estarían alterando las estimaciones de los períodos restantes. Por ejemplo, fuera de temporada, se sobreestimaría tanto los visitantes (en un 25%), como los turistas (en un 54%), mientras que los excursionistas sufrirías una subestimación del orden de un 62,8%. Esto ocurre debido a que en temporada alta, es mayor la cantidad de visitantes y turistas en relación al total de vehículos que ingresan, y más común el ingreso de turistas en relación a los otros dos períodos. Análogas a las alteraciones descriptas para fuera de temporada alta se producen en el período de fines de semana(los excursionistas se hubieran visto reducidos en un -1,0% y -78,4%, respectivamente, y sólo la cantidad de turistas hubiera crecido en un 38,6%).
+Con estas dos Figuras se busca dar cuenta de la alteración que se produce en las estimaciones cuando no se toma en consideración la estacionalidad, mencionada en el primer capítulo. En este caso, si se aplica el coeficiente obtenido en temporada alta para todos los períodos, se estarían alterando las estimaciones de los períodos restantes. Por ejemplo, fuera de temporada, se sobreestimaría tanto los visitantes (en un $25\%$), como los turistas (en un $54\%$), mientras que los excursionistas sufrirías una subestimación del orden de un $62,8\%$. Esto ocurre debido a que en temporada alta, es mayor la cantidad de visitantes y turistas en relación al total de vehículos que ingresan, y más común el ingreso de turistas en relación a los otros dos períodos. Análogas a las alteraciones descriptas para fuera de temporada alta se producen en el período de fines de semana(los excursionistas se hubieran visto reducidos en un $-1,0\%$ y $-78,4\%$, respectivamente, y sólo la cantidad de turistas hubiera crecido en un $38,6\%$).
 
-Como conclusión de este ejemplo, es evidente que resulta fundamental la evaluación previa y la implementación de una metodología adecuada que permita realizar de la manera más fiel posible el proceso de conversión de los datos provistos por el `Registros Administrativos`  (automóviles en el ejemplo) a unidades relevantes desde el punto de vista de la estadística del turismo (cantidad de visitantes -turistas y excursionistas- según localidad de destino en el ejemplo).
+Como conclusión de este ejemplo, es evidente que resulta fundamental la evaluación previa y la implementación de una metodología adecuada que permita realizar de la manera más fiel posible el proceso de conversión de los datos provistos por el `Registros Administrativos` (automóviles en el ejemplo) a unidades relevantes desde el punto de vista de la estadística del turismo (cantidad de visitantes -turistas y excursionistas- según localidad de destino en el ejemplo).
 
 ## Terminales de pasajeros
 
@@ -107,13 +104,13 @@ Las terminales de autobuses, aéreas y/o ferroviarias ofrecen una importante fue
 
     \
 
-Sin embargo, en general, estos `Registros Administrativos`  no brindan información sobre los ingresos y egresos de personas, y, menos aún, si éstas resultan ser visitantes (turistas o excursionistas). En lo que a la identificación de visitantes y residentes corresponde, el dato sobre residencia juega un papel importante, ya que brinda una aproximación (los visitantes son un subtipo de viajero, determinado por haber salido de su entorno habitual).
+Sin embargo, en general, estos `Registros Administrativos` no brindan información sobre los ingresos y egresos de personas, y, menos aún, si éstas resultan ser visitantes (turistas o excursionistas). En lo que a la identificación de visitantes y residentes corresponde, el dato sobre residencia juega un papel importante, ya que brinda una aproximación (los visitantes son un subtipo de viajero, determinado por haber salido de su entorno habitual).
 
-Es en este último punto en el cual el procedimiento para la conversión de los datos suministrados por las terminales juega un rol fundamental. Si los datos son utilizados como indicadores en forma directa no sólo se estará perdiendo información sino que incluso se pueden extraer conclusiones erróneas: al tratarse de servicios públicos, la alteración en el flujo de ómnibus, trenes o aviones está sólo en parte sometida a variaciones de la demanda y, por otra parte, la proporción de residentes y visitantes en cada momento del año suele variar significativamente. Por tanto, es preciso implementar una estrategia metodológica adecuada para obtener información relevante desde el punto de vista de las estadísticas del turismo. En otras palabras, mientras que este tipo de `Registros Administrativos`  brinda información desde el punto de vista de la oferta, sólo con un proceso de reconversión metodológica se podrá arribar a información sobre la demanda turística.
+Es en este último punto en el cual el procedimiento para la conversión de los datos suministrados por las terminales juega un rol fundamental. Si los datos son utilizados como indicadores en forma directa no sólo se estará perdiendo información sino que incluso se pueden extraer conclusiones erróneas: al tratarse de servicios públicos, la alteración en el flujo de ómnibus, trenes o aviones está sólo en parte sometida a variaciones de la demanda y, por otra parte, la proporción de residentes y visitantes en cada momento del año suele variar significativamente. Por tanto, es preciso implementar una estrategia metodológica adecuada para obtener información relevante desde el punto de vista de las estadísticas del turismo. En otras palabras, mientras que este tipo de `Registros Administrativos` brinda información desde el punto de vista de la oferta, sólo con un proceso de reconversión metodológica se podrá arribar a información sobre la demanda turística.
 
 Siguiendo la línea de lo presentado anteriormente, en primer lugar se deberá definir la población objetivo, cuyo reconocimiento resulta fundamental como guía para los pasos subsiguientes del análisis. En este caso, la población objetivo serán los visitantes (turistas y excursionistas) que ingresen por alguna de las vías mencionadas (autobús, aérea o ferrocarril).
 
-Una vez delimitada la población objetivo, se deben definir e identificar tanto las unidades que informará el `Registros Administrativos`  en cuestión como los pasos requeridos para la obtención de la información estadística y su delimitación (tipo de servicio de transporte, alcance geográfico, periodos a considerar en el estudio, etc.).
+Una vez delimitada la población objetivo, se deben definir e identificar tanto las unidades que informará el `Registros Administrativos` en cuestión como los pasos requeridos para la obtención de la información estadística y su delimitación (tipo de servicio de transporte, alcance geográfico, periodos a considerar en el estudio, etc.).
 
 A continuación se presenta, un ejemplo, como propuesta para el tratamiento y procesamiento de los datos provenientes de estas fuentes secundarias.
 
@@ -155,6 +152,7 @@ El estudio contempla dos fases o dos tipos de relevamientos. Por un lado, se rea
 [^ejemplos-9]: Si bien este ejercicio apunta a cuantificar y caracterizar a los visitantes que llegan al destino, cabe notar que del mismo estudio podría surgir una estimación acerca del turismo emisivo, es decir, de los residentes en ese lugar que viajan a otros destinos.
 
 Los resultados obtenidos son los que describen en la siguiente figura:
+
 ```{r resultadosobtenidos, echo=FALSE, fig.cap="Resultados obtenidos por los estudios muestrales realizados por la localidad Norte" }
 knitr::include_graphics('imagenes/figura06.png')
 ```
@@ -163,38 +161,37 @@ Si se encuesta a todas las personas que ingresen vía alguno de los aviones diar
 
 Si cada avión posee 104 asientos y diariamente hay tres llegadas, en los siete días contemplados para el estudio de temporada alta, la oferta de asientos (pasajes) alcanza a 2.184 asientos (104 x 3 x 7).
 
-Si en el estudio realizado en 7 días de temporada alta se han contado un total de 2.050 llegadas de pasajeros, ello implica una tasa de ocupación del 93,9% sobre el máximo disponible (2.050 llegadas efectivas / 2.184 asientos disponibles).
+Si en el estudio realizado en 7 días de temporada alta se han contado un total de 2.050 llegadas de pasajeros, ello implica una tasa de ocupación del $93,9\%$ sobre el máximo disponible (2.050 llegadas efectivas / 2.184 asientos disponibles).
 
-Fuera de temporada los arribos alcanzaron un total de 1.150 pasajeros, lo que implica una ocupación del 52,7% del total de asientos disponibles.
+Fuera de temporada los arribos alcanzaron un total de 1.150 pasajeros, lo que implica una ocupación del $52,7\%$ del total de asientos disponibles.
 
-Por último, en fines de semana largo, el relevamiento se realizó en 4 días (1.248 asientos) contándose 950 llegadas (76,1% de ocupación de asientos).
+Por último, en fines de semana largo, el relevamiento se realizó en 4 días (1.248 asientos) contándose 950 llegadas ($76,1\%$ de ocupación de asientos).
 
 Con estos resultados es posible estimar el total de pasajeros arribados al aeropuerto durante el año considerado, al aplicar la tasa de ocupación de cada periodo al total de asientos disponibles en cada uno de ellos.
 
 La segunda fase es la aplicación de una encuesta muy simple a todos los pasajeros arribados para determinar, como se mencionó anteriormente, lugar de residencia y estadía en el destino (para el caso de los visitantes).
 
-En el operativo realizado para temporada alta se da cuenta de que ingresaron un 9,8% de residentes y un 90,2% de visitantes (78% de turistas y 12,2% de excursionistas). Un 40,6% de los turistas eran no residentes en Argentina y un 59,4% correspondieron a no residentes extranjeros; en el caso de los excursionistas, estas proporciones alcanzaron respectivamente al 80% y 20%.
+En el operativo realizado para temporada alta se da cuenta de que ingresaron un $9,8\%$ de residentes y un $90,2\%$ de visitantes ($78\%$ de turistas y $12,2\%$ de excursionistas). Un $40,6\%$ de los turistas eran no residentes en Argentina y un $59,4\%$ correspondieron a no residentes extranjeros; en el caso de los excursionistas, estas proporciones alcanzaron respectivamente al $80\%$ y $20\%$.
 
-Para obtener los coeficientes correspondientes que cada categoría ocupa sobre la capacidad total, que servirá para realizar las estimaciones anuales, se presenta un ejemplo en el cuadro subsiguiente (Figura N° 7). En el mismo, se ejemplifica para temporada alta el caso de estimación de coeficientes de "arribos de turistas no residentes (nac.)" sobre la capacidad total. Los valores que deben ser multiplicados son provenientes de la Figura N° 6, es decir, del estudio realizado.
+Para obtener los coeficientes correspondientes que cada categoría ocupa sobre la capacidad total, que servirá para realizar las estimaciones anuales, se presenta un ejemplo en el cuadro subsiguiente (Figura 3.5). En el mismo, se ejemplifica para temporada alta el caso de estimación de coeficientes de "arribos de turistas no residentes (nac.)" sobre la capacidad total. Los valores que deben ser multiplicados son provenientes de la Figura 3.4, es decir, del estudio realizado.
 
 ```{r arribosdeturistas, echo=FALSE, fig.cap="Estimación de coeficiente de arribos de turistas residentes sobre capacidad total" }
 knitr::include_graphics('imagenes/figura07.png')
 ```
 
+Las estimaciones se obtienen a partir de multiplicar los porcentajes remarcados en la Figura 3.5 de la siguiente manera:\
 
-Las estimaciones se obtienen a partir de multiplicar los porcentajes remarcados en la Figura N° 7 de la siguiente manera:\
+1.  Multiplicar el porcentaje de "arribos totales" con el de "turistas" ($0,94$\*$0,78$=$0,7332$), para así obtener el peso de los turistas que han ingresado a la localidad "Norte" sobre el total de asientos disponibles ("capacidad total").
 
-1.  Multiplicar el porcentaje de "arribos totales" con el de "turistas" (0,94\*0,78=0,7332), para así obtener el peso de los turistas que han ingresado a la localidad "Norte" sobre el total de asientos disponibles ("capacidad total").
+2.  Una vez obtenido dicho valor, se lo debe multiplicar por el porcentaje que corresponde a los "visitantes no residentes (nac.)" (esto es, el porcentaje de no residentes nacionales en total de turistas), a fin de obtener el peso de los turistas no residentes (nac.)que han ingresado sobre el total asientos o pasajes disponibles ($0,7332$\*$0,41$=$0,2976792$). En efecto, se puede concluir que un **29,8% de los asientos disponibles en los vuelos arribados durante la temporada alta han sido ocupados por turistas no residentes provenientes de otras localidades o provincias del país**.
 
-2.  Una vez obtenido dicho valor, se lo debe multiplicar por el porcentaje que corresponde a los "visitantes no residentes (nac.)" (esto es, el porcentaje de no residentes nacionales en total de turistas), a fin de obtener el peso de los turistas no residentes (nac.)que han ingresado sobre el total asientos o pasajes disponibles (0,7332\*0,41=0,2976792). En efecto, se puede concluir que un **29,8% de los asientos disponibles en los vuelos arribados durante la temporada alta han sido ocupados por turistas no residentes provenientes de otras localidades o provincias del país**.
+3.  Finalmente, para estimar la cantidad de visitantes en el periodo bajo estudio se debe multiplicar el coeficiente de cada celda por el total de asientos disponibles en el periodo. Si la temporada alta está comprendida por 2 meses, ello implica un total de 18.720 asientos disponibles. Si se estimó que el porcentaje de éstos ocupados por turistas no residentes alcanzaba al $29,8\%$, ello implica una cantidad que alcanza a 5.567 turistas ($0,298$\*$18.720$).
 
-3.  Finalmente, para estimar la cantidad de visitantes en el periodo bajo estudio se debe multiplicar el coeficiente de cada celda por el total de asientos disponibles en el periodo. Si la temporada alta está comprendida por 2 meses, ello implica un total de 18.720 asientos disponibles. Si se estimó que el porcentaje de éstos ocupados por turistas no residentes alcanzaba al 29,8%, ello implica una cantidad que alcanza a 5.567 turistas (0,298 \* 18.720).
-
-El mismo cálculo debe ser realizado para los casos subsiguientes, de modo de poder estimar, a partir de los datos del `Registros Administrativos`  y los coeficientes construidos, la cantidad de visitantes por tipo y lugar de residencia para el año entero.
+El mismo cálculo debe ser realizado para los casos subsiguientes, de modo de poder estimar, a partir de los datos del `Registros Administrativos` y los coeficientes construidos, la cantidad de visitantes por tipo y lugar de residencia para el año entero.
 
 En términos lógicos, sólo es preciso estimar, para cada periodo definido, el coeficiente que corresponde a cada una de estas cuatro categorías: (1) turistas no residentes nacionales, (2) turistas no residentes extranjeros, (3) excursionistas no residentes nacionales y (4) excursionistas no residentes extranjeros. La suma de las cuatro arroja un coeficiente que permite estimar el total de visitantes a partir de las plazas disponibles. La suma de 1 y 2, arroja el coeficiente del peso de los turistas (análogamente, 3+4= excursionistas) y la suma de 1 y 3 la de visitantes no residentes nacionales (análogamente, 2+4= visitantes no residentes extranjeros).
 
-La Figura N° 8 da cuenta, en primer lugar, de los coeficientes para los grupos estratos de visitantes considerados por periodo (calculados como en el ejemplo de la Figura N° 7); luego, aplicando estos valores sobre la cantidad de asientos disponibles (capacidad total) en cada periodo, se obtienen las cantidades de visitantes correspondientes por categoría. Por ejemplo, si para la temporada alta, la llegada de turistas no residentes nacionales ocupó un 29,8%, ese porcentaje es multiplicado por la capacidad total de asientos en dicho período (en este caso: 18.720), para así obtener la cantidad estimada de llegadas en un año durante la temporada alta.
+La Figura 3.6 da cuenta, en primer lugar, de los coeficientes para los grupos estratos de visitantes considerados por periodo (calculados como en el ejemplo de la Figura 3.5); luego, aplicando estos valores sobre la cantidad de asientos disponibles (capacidad total) en cada periodo, se obtienen las cantidades de visitantes correspondientes por categoría. Por ejemplo, si para la temporada alta, la llegada de turistas no residentes nacionales ocupó un $29,8\%$, ese porcentaje es multiplicado por la capacidad total de asientos en dicho período (en este caso: 18.720), para así obtener la cantidad estimada de llegadas en un año durante la temporada alta.
 
 ```{r llegadasportipo, echo=FALSE, fig.cap="Estimación de llegadas por tipo y residencia de visitante en cada período bajo estudio" }
 knitr::include_graphics('imagenes/figura08.png')
@@ -206,7 +203,7 @@ Por otro lado, debido a la variabilidad que caracteriza a la demanda turística,
 
 ## Centro de Información
 
-Tomando en consideración a otro de los `Registros Administrativos`  que permite construir datos que den cuenta de la Demanda Turística, como ser los registros de llegadas a los CIT, el procedimiento de utilización que se propone es el siguiente.
+Tomando en consideración a otro de los `Registros Administrativos` que permite construir datos que den cuenta de la Demanda Turística, como ser los registros de llegadas a los CIT, el procedimiento de utilización que se propone es el siguiente.
 
 En primer lugar, identificar a la población objetivo: los visitantes (tanto turistas como excursionistas) que vayan a solicitar información a los CIT[^ejemplos-10]. Luego, se deberá determinar el alcance geográfico (provincia, municipio, etc.) y temporal del estudio.
 
@@ -228,14 +225,15 @@ Para poder obtener a partir de este dato información sobre el total de visitant
 
 [^ejemplos-11]: Esta categoría hace referencia a aquellos visitantes que se encuentran realizando un viaje multidestino como turistas, pero que visitan a la localidad en calidad de excursionistas. Es decir, si bien pernoctan fuera de su entorno habitual, no lo hacen en la localidad que se encuentra bajo estudio, en la cual se quedan menos de un día.
 
-Los resultados informados son los que se exponen a continuación, en la Figura N° 9.
+Los resultados informados son los que se exponen a continuación, en la Figura 3.7
 
 ```{r cantidaddevisitantes, echo=FALSE, fig.cap="Cantidad de visitantes por categoría informados por el CIT y cálculo de porcentaje que los mismos ocupan sobre el total de ingresos" }
 knitr::include_graphics('imagenes/figura09.png')
 ```
-Figura N° 9. Cantidad de visitantes por categoría informados por el CIT y cálculo de porcentaje que los mismos ocupan sobre el total de ingresos.
 
-Con los datos relevados, el instituto generador de estadísticas de la localidad procede a determinar el porcentaje de visitantes que ingresan en busca de información al CIT según categoría. En el caso de los excursionistas, un 7,54% son residentes de otras localidades de la provincia, un 12,2% nacionales y un 13,4% extranjeros. Entre los turistas que ingresaron al CIT se cuenta con un 7,5%, un 25,5% y un 23,8%, respectivamente. Por último, aquellos excursionistas que son turistas en un viaje multidestino, un 2,6% de éstos pertenecen a otras localidades de la misma provincia, un 3,6% a otras provincias del país y un 4,0% a otros países.
+Figura 3.7. Cantidad de visitantes por categoría informados por el CIT y cálculo de porcentaje que los mismos ocupan sobre el total de ingresos.
+
+Con los datos relevados, el instituto generador de estadísticas de la localidad procede a determinar el porcentaje de visitantes que ingresan en busca de información al CIT según categoría. En el caso de los excursionistas, un $7,54\%$ son residentes de otras localidades de la provincia, un $12,2\%$ nacionales y un $13,4\%$ extranjeros. Entre los turistas que ingresaron al CIT se cuenta con un $7,5\%$, un $25,5\%$ y un $23,8\%$, respectivamente. Por último, aquellos excursionistas que son turistas en un viaje multidestino, un $2,6\%$ de éstos pertenecen a otras localidades de la misma provincia, un $3,6\%$ a otras provincias del país y un $4,0\%$ a otros países.
 
 Resulta relevante destacar que estos porcentajes han sido calculados sobre el total de visitantes (suma de integrantes de los grupos de viajes que, mediante uno de sus componentes, se dirigieron al CIT), y no de los ingresos al CIT de las personas, consideradas individualmente, que en busca de información, a fin de poseer una visión con mayor exactitud sobre la realidad del sector turístico.
 
@@ -245,9 +243,9 @@ Como ya se mencionó en ejemplos anteriores, se debe tener en consideración que
 
 Por otra parte, si la localidad en cuestión cuenta con una encuesta de perfil dirigida a los visitantes, en la misma se puede agregar una pregunta a fin de indagar si éstos han concurrido o no en busca de información a los CIT.
 
-Así, si del estudio se desprende que durante la temporada surge que hubo 1.500 visitantes que pasaron (ellos u otros integrantes de su grupo) por el CIT y en otra encuesta surge que el 25% de los visitantes concurrieron al CIT es posible estimar el volumen total de visitantes en la temporada, mediante una sencilla regla de tres simple: si los 1.500 visitantes que pasaron por CIT representan al 25% de los visitantes de un destino, el total de visitantes al mismo fue de 6.000.
+Así, si del estudio se desprende que durante la temporada surge que hubo 1.500 visitantes que pasaron (ellos u otros integrantes de su grupo) por el CIT y en otra encuesta surge que el 25% de los visitantes concurrieron al CIT es posible estimar el volumen total de visitantes en la temporada, mediante una sencilla regla de tres simple: si los 1.500 visitantes que pasaron por CIT representan al $25\%$ de los visitantes de un destino, el total de visitantes al mismo fue de 6.000.
 
-Más allá de este ejemplo, la cobertura de este tipo de `Registros Administrativos`  puede variar de destino y destino, y conviene siempre tener presente la población objetivo que se está estudiando. Es decir, no sólo no es posible con los datos obtenidos de este `Registros Administrativos`  y el procedimiento ad hoc estimar la cantidad total de visitantes que ingresaron a la localidad "X" durante cierto período, sino que tampoco se podrán hacer generalizaciones (más allá del propio universo de visitantes al CIT) sobre sus características, por ejemplo: el tipo de visitante o, el lugar de residencia, que muy probablemente diferirán entre los visitantes que pasan por el CIT y los que no lo hacen.
+Más allá de este ejemplo, la cobertura de este tipo de `Registros Administrativos` puede variar de destino y destino, y conviene siempre tener presente la población objetivo que se está estudiando. Es decir, no sólo no es posible con los datos obtenidos de este `Registros Administrativos` y el procedimiento ad hoc estimar la cantidad total de visitantes que ingresaron a la localidad "X" durante cierto período, sino que tampoco se podrán hacer generalizaciones (más allá del propio universo de visitantes al CIT) sobre sus características, por ejemplo: el tipo de visitante o, el lugar de residencia, que muy probablemente diferirán entre los visitantes que pasan por el CIT y los que no lo hacen.
 
 A su vez, si bien el relevamiento se ejecuta en forma diaria, realizar un estudio con esa frecuencia no tendría sentido en términos estadísticos (la estadística sugiere períodos de análisis); por lo tanto sería pertinente determinar el período de análisis (semanal, quincenal, mensual, etc.). Incluso, ante fines de semana largos y/o semanas festivas significativas en términos turísticos para dicha localidad que merezca relevancia de ser estudiada.
 
