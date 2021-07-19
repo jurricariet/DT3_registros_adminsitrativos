@@ -11,11 +11,12 @@ bookdown::gitbook:
         <li><a href="http://datos.yvera.gob.ar/" target="blank">Datos Abiertos de Turismo</a></li>
         <li><a href="http://www.yvera.gob.ar/estadistica" target="blank">Estadísticas de Turismo</a></li>
     download: ["pdf", "epub"]
-#bookdown::pdf_book:
-#  includes:
-#    in_header: preamble.tex
-#  latex_engine: xelatex
-#  citation_package: natbib
-#  keep_tex: yes
-bookdown::epub_book: default
-
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+    before_body: before_body.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
+bookdown::epub_book: 
+  cover_image: portada3.jpg
